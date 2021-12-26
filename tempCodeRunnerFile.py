@@ -1,3 +1,3 @@
 print("santho")
-print("mani is qwhh   eggggggggggggggggggggggggtkekegg")
+print("sun is qwhh   eggggggggggggggggggggggggtkekegg")
 print("fgrrgrgr")
